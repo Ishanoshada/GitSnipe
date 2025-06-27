@@ -186,3 +186,4 @@ For issues, feature requests, or questions, please use the [GitHub issue tracker
 **Disclaimer:**  
 This tool is for educational and authorized security testing purposes only. Always obtain proper permission before scanning or cloning repositories from third-party systems.
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/gitsnipe/count.svg)
